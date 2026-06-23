@@ -1,0 +1,5 @@
+*.env.mongo
+!.env.example.mongo
+bin
+obj
+appsettings.Development.json
