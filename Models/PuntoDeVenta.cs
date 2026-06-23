@@ -1,5 +1,8 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
+using PracticoOrmMongo.Models;
+
+namespace PracticoOrmMongo.Models; 
 
 public class PuntoDeVenta
 {

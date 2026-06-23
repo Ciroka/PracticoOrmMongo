@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using PracticoOrmMongo.Models;
 using PracticoOrmMongo.Services;
 
 namespace PracticoOrmMongo.Controllers;

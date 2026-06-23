@@ -1,0 +1,10 @@
+[
+  { "VentaIndex": 0, "ProductoNombre": "Tallarines 500g", "Cantidad": 3 },
+  { "VentaIndex": 0, "ProductoNombre": "Ñoquis de Papa 500g", "Cantidad": 2 },
+  { "VentaIndex": 1, "ProductoNombre": "Ravioles de Ricota", "Cantidad": 1 },
+  { "VentaIndex": 1, "ProductoNombre": "Fetuccini Integral", "Cantidad": 2 },
+  { "VentaIndex": 2, "ProductoNombre": "Tallarines 500g", "Cantidad": 5 },
+  { "VentaIndex": 3, "ProductoNombre": "Tallarines al peso", "Cantidad": 1 },
+  { "VentaIndex": 4, "ProductoNombre": "Ñoquis de Papa 500g", "Cantidad": 4 },
+  { "VentaIndex": 4, "ProductoNombre": "Ravioles de Ricota", "Cantidad": 2 }
+]

@@ -10,5 +10,11 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.9" />
     <PackageReference Include="MongoDB.Driver" Version="3.9.0" />
   </ItemGroup>
-
+  
+  <ItemGroup>
+    <None Include="Seeds/*.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
 </Project>

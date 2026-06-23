@@ -1,0 +1,6 @@
+[
+  { "Nombre": "Mostrador A", "PuntoDeVentaNombre": "Sucursal Centro" },
+  { "Nombre": "Mostrador B", "PuntoDeVentaNombre": "Sucursal Centro" },
+  { "Nombre": "Mostrador C", "PuntoDeVentaNombre": "Sucursal Norte" },
+  { "Nombre": "Mostrador D", "PuntoDeVentaNombre": "Sucursal Sur" }
+]

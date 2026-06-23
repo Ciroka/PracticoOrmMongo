@@ -2,6 +2,7 @@
 using MongoDB.Driver;
 using PracticoOrmMongo.Settings;
 using Microsoft.Extensions.Options;
+using PracticoOrmMongo.Models;
 
 namespace PracticoOrmMongo.Services;
 

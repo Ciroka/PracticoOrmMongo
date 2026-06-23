@@ -1,0 +1,17 @@
+[
+  { "RecetaIndex": 0, "IngredienteNombre": "Harina 000", "Cantidad": 0.500 },
+  { "RecetaIndex": 0, "IngredienteNombre": "Huevo", "Cantidad": 3.000 },
+  { "RecetaIndex": 0, "IngredienteNombre": "Sal fina", "Cantidad": 0.010 },
+  { "RecetaIndex": 1, "IngredienteNombre": "Papa", "Cantidad": 1.000 },
+  { "RecetaIndex": 1, "IngredienteNombre": "Harina 000", "Cantidad": 0.250 },
+  { "RecetaIndex": 1, "IngredienteNombre": "Huevo", "Cantidad": 1.000 },
+  { "RecetaIndex": 1, "IngredienteNombre": "Sal fina", "Cantidad": 0.010 },
+  { "RecetaIndex": 2, "IngredienteNombre": "Harina 000", "Cantidad": 0.400 },
+  { "RecetaIndex": 2, "IngredienteNombre": "Huevo", "Cantidad": 2.000 },
+  { "RecetaIndex": 2, "IngredienteNombre": "Ricota", "Cantidad": 0.300 },
+  { "RecetaIndex": 2, "IngredienteNombre": "Nuez Moscada", "Cantidad": 0.005 },
+  { "RecetaIndex": 3, "IngredienteNombre": "Harina Integral", "Cantidad": 0.500 },
+  { "RecetaIndex": 3, "IngredienteNombre": "Huevo", "Cantidad": 2.000 },
+  { "RecetaIndex": 3, "IngredienteNombre": "Aceite de oliva", "Cantidad": 0.020 },
+  { "RecetaIndex": 3, "IngredienteNombre": "Sal fina", "Cantidad": 0.010 }
+]

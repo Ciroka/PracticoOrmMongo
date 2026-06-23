@@ -1,0 +1,7 @@
+[
+  { "FechaDeVenta": "2025-05-01T09:30:00Z", "MostradorNombre": "Mostrador A" },
+  { "FechaDeVenta": "2025-05-01T11:15:00Z", "MostradorNombre": "Mostrador B" },
+  { "FechaDeVenta": "2025-05-02T10:00:00Z", "MostradorNombre": "Mostrador C" },
+  { "FechaDeVenta": "2025-05-03T14:45:00Z", "MostradorNombre": "Mostrador D" },
+  { "FechaDeVenta": "2025-05-03T16:20:00Z", "MostradorNombre": "Mostrador A" }
+]

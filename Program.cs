@@ -30,7 +30,7 @@ builder.Services.AddSingleton<MostradorService>();
 builder.Services.AddSingleton<ProductoService>();
 builder.Services.AddSingleton<PuntoDeVentaService>();
 builder.Services.AddSingleton<RecetaService>();
-builder.Services.AddSingleton<TipoProducto>();
+builder.Services.AddSingleton<TipoProductoService>();
 builder.Services.AddSingleton<VentaService>();
 
 var app = builder.Build();

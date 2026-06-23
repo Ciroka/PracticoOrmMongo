@@ -1,4 +1,4 @@
-*.env
+.env.mongo
 !.env.example.mongo
 bin/
 obj/

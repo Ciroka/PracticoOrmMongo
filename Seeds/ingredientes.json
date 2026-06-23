@@ -1,0 +1,10 @@
+[
+  { "Nombre": "Harina 000", "Costo": 120.00 },
+  { "Nombre": "Harina Integral", "Costo": 150.00 },
+  { "Nombre": "Huevo", "Costo": 80.00 },
+  { "Nombre": "Sal fina", "Costo": 20.00 },
+  { "Nombre": "Papa", "Costo": 60.00 },
+  { "Nombre": "Ricota", "Costo": 200.00 },
+  { "Nombre": "Nuez Moscada", "Costo": 90.00 },
+  { "Nombre": "Aceite de oliva", "Costo": 350.00 }
+]

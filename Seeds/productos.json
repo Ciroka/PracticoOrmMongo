@@ -1,0 +1,7 @@
+[
+  { "Nombre": "Tallarines 500g", "RecetaNombre": "Receta Tallarines Clásicos", "TipoProductoNombre": "Pasta Larga", "PorcentajeDeGanancia": 65.00, "Descripcion": "Pasta fresca al huevo, corte fino" },
+  { "Nombre": "Fetuccini Integral", "RecetaNombre": "Receta Fetuccini Integral", "TipoProductoNombre": "Pasta Larga", "PorcentajeDeGanancia": 60.00, "Descripcion": "Pasta integral con aceite de oliva" },
+  { "Nombre": "Ñoquis de Papa 500g", "RecetaNombre": "Receta Ñoquis de Papa", "TipoProductoNombre": "Pasta Corta", "PorcentajeDeGanancia": 70.00, "Descripcion": "Ñoquis artesanales de papa" },
+  { "Nombre": "Ravioles de Ricota", "RecetaNombre": "Receta Ravioles de Ricota", "TipoProductoNombre": "Pasta Rellena", "PorcentajeDeGanancia": 75.00, "Descripcion": "Rellenos con ricota y nuez moscada" },
+  { "Nombre": "Tallarines al peso", "RecetaNombre": "Receta Tallarines Clásicos", "TipoProductoNombre": "Al peso", "PorcentajeDeGanancia": 55.00, "Descripcion": null }
+]
