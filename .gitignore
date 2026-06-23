@@ -1,5 +1,5 @@
-*.env.mongo
+*.env
 !.env.example.mongo
-bin
-obj
+bin/
+obj/
 appsettings.Development.json

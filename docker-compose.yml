@@ -1,10 +1,41 @@
 services:
-  mongo:
-    image: mongo:latest
-    ports:
-      - "27017:27017"
+  db:
+    image: mongo:7
+    env_file:
+      - .env.mongo
     volumes:
-      - mongo-db:/data/db
+      - mongo-data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - net
+
+  mongo-express:
+    image: mongo-express:latest
+    env_file:
+      - .env.mongo
+    ports:
+      - "8081:8081"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - net
+
+  backend:
+    build: ./
+    env_file:
+      - .env.mongo
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8000:8080"
+    depends_on:
+      db:
+        condition: service_healthy
     networks:
       - net
 
@@ -12,4 +43,4 @@ networks:
   net:
 
 volumes:
-  mongo-db:
+  mongo-data:
